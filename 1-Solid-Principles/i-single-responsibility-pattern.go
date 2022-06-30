@@ -5,6 +5,7 @@ import (
 	"strings"
 )
 
+// https://dave.cheney.net/2016/08/20/solid-go-design
 /*
 	Single Responsibility Pattern advocates the separation of concern,
 	splitting different functionalities into different constructs
